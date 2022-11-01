@@ -1,8 +1,8 @@
 <p align="center">
   <samp>
-    <a target="_blank" href="https://leedom.me">me</a> .
-    <a target="_blank" href="https://blog.leedom.me">blog</a> .
-    <a target="_blank" href="https://docs.leedom.me">docs</a>
+    <a target="_blank" rel="noreferrer" href="https://leedom.me">me</a> .
+    <a target="_blank" rel="noreferrer" href="https://blog.leedom.me">blog</a> .
+    <a target="_blank" rel="noreferrer" href="https://docs.leedom.me">docs</a>
   </samp>
 </p>
 

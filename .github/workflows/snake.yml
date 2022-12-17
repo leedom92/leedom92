@@ -22,6 +22,6 @@ jobs:
       - name: 🚗 push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          branch: github-contribution-grid-snake
-          folder: dist
-          message: 🐍 SNAKE IS CRAWLING!!!
+          target_branch: github-contribution-grid-snake
+          build_dir: dist
+          commit_message: 🐍 SNAKE IS CRAWLING!!!

@@ -8,7 +8,9 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+  <a href="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg">
+    <img src="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+  </a>
 </div>
 
 

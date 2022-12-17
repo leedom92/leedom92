@@ -25,3 +25,5 @@ jobs:
           target_branch: github-contribution-grid-snake
           build_dir: dist
           commit_message: 🐍 SNAKE IS CRAWLING!!!
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

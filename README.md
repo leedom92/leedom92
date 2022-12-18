@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg">
-    <img width="70%" src="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+    <img width="80%" src="https://cdn.jsdelivr.net/gh/leedom92/leedom92@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
   </a>
 </div>
 

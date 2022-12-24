@@ -23,7 +23,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: master
-          build_dir: ./src
+          build_dir: src
           commit_message: 🐍 SNAKE IS CRAWLING!!!
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

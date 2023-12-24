@@ -3,7 +3,7 @@
     <a href="https://leedom.me">me</a> .
     <a href="https://blog.leedom.me">blog</a> .
     <a href="https://docs.leedom.me">docs</a> .
-    <a href="https://pinyin.leedom.me">pinyin</a>
+<!--     <a href="https://pinyin.leedom.me">pinyin</a> -->
   </samp>
 </p>
 

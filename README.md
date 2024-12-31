@@ -4,6 +4,7 @@
     <a href="https://leedom.me/blog">blog</a> .
     <a href="https://leedom.me/projects">projects</a> .
     <a href="https://releases.leedom.me">releases</a> .
+    <a href="https://prs.leedom.me">prs</a> .
     <a href="https://docs.leedom.me">docs</a>
   </samp>
 </p>

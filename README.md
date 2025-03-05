@@ -10,11 +10,11 @@
 </p>
 
 <!--
-<div align="center">
-  <a href="https://raw.githubusercontent.com/leedom92/leedom92/master/github-contribution-grid-snake.svg">
-    <img width="80%" src="https://raw.githubusercontent.com/leedom92/leedom92/master/github-contribution-grid-snake.svg" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leedom92/leedom92/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leedom92/leedom92/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leedom92/leedom92/output/github-contribution-grid-snake.svg">
+</picture>
 -->
 
 
